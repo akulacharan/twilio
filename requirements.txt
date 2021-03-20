@@ -31,7 +31,7 @@ gunicorn==20.0.4
 heroku==0.1.4
 idna==2.8
 imagesize==1.2.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 MarkupSafe==1.1.1
 oauthlib==3.0.1
