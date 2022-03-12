@@ -37,7 +37,7 @@ MarkupSafe==1.1.1
 oauthlib==3.0.1
 packaging==20.4
 pep8==1.7.1
-Pillow==7.1.2
+Pillow==9.0.1
 psycopg2==2.8.5
 pycodestyle==2.5.0
 Pygments==2.6.1
